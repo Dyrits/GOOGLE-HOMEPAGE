@@ -14,8 +14,6 @@ THE ODIN PROJECT | WEB DEVELOPMENT 101: The Front End
 ### Details | Comments
 - This project has been freely made from scratch following global instructions.  
 
-The original Google Homepage is not really responsive. I added a tiny bit of responsivity.
-
 ### CodePen
 You can find this project on CodePen.  
 URL: https://codepen.io/Dyrits/full/oNjwaQJ
