@@ -1,28 +1,31 @@
-# Google Homepage
+# GOOGLE-HOMEPAGE
 
-## More about this project
+A copy of the Google homepage, built with HTML and CSS.
 
-### Related course
-THE ODIN PROJECT | WEB DEVELOPMENT 101: The Front End  
-[Project: HTML/CSS](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+## About The Project
 
-### Technologies | Libraries | Frameworks | Tools  
+Built as the HTML/CSS project of The Odin Project's Web Development 101 (The Front End) course. Freely made from scratch following global instructions.
+
+A live version is available on [CodePen](https://codepen.io/Dyrits/full/oNjwaQJ).
+
+### Status
+
+Completed.
+
+### Built With
+
 - HTML5
 - CSS3
 - JavaScript
 
-### Details | Comments
-- This project has been freely made from scratch following global instructions.  
+## Getting Started
 
-### CodePen
-You can find this project on CodePen.  
-URL: https://codepen.io/Dyrits/full/oNjwaQJ
+Open `index.html` in a browser.
 
-### Status
-Completed
+## License
 
-#### Last update
-28/04/2020
+No license file is present in this repository.
 
-#### Last update (README.md)
-26/05/2020
+## Contact
+
+Dyrits - https://github.com/Dyrits
